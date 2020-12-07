@@ -6,7 +6,7 @@
 ### Assert 사용 방법
 #### Assert.IsTrue(value) : value 가 True 인지 테스트한다. 
 #### Assert.IsFalse(value) : value 가 False 인지 테스트한다. 
-#### Assert.AreEqual(expected, value); 예상값 expected 과 실제 값 value 가 같은지 테스트한다.
+#### Assert.AreEqual(expected, value) : 예상값 expected 과 실제 값 value 가 같은지 테스트한다.
 #### Assert.IsNull(value) : vlaue 가 null 인지 테스트한다.
 #### Assert.Assert.IsNotNull(value) : vlaue 가 null 이 아닌지 테스트한다.
 
