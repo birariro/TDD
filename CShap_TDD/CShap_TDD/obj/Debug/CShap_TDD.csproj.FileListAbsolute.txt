@@ -1,0 +1,7 @@
+D:\ProjectPath\GitOpen\TDD\CShap_TDD\CShap_TDD\bin\Debug\CShap_TDD.exe.config
+D:\ProjectPath\GitOpen\TDD\CShap_TDD\CShap_TDD\bin\Debug\CShap_TDD.exe
+D:\ProjectPath\GitOpen\TDD\CShap_TDD\CShap_TDD\bin\Debug\CShap_TDD.pdb
+D:\ProjectPath\GitOpen\TDD\CShap_TDD\CShap_TDD\obj\Debug\CShap_TDD.csprojAssemblyReference.cache
+D:\ProjectPath\GitOpen\TDD\CShap_TDD\CShap_TDD\obj\Debug\CShap_TDD.csproj.CoreCompileInputs.cache
+D:\ProjectPath\GitOpen\TDD\CShap_TDD\CShap_TDD\obj\Debug\CShap_TDD.exe
+D:\ProjectPath\GitOpen\TDD\CShap_TDD\CShap_TDD\obj\Debug\CShap_TDD.pdb

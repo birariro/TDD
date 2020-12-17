@@ -12,7 +12,7 @@ namespace CShap_TDD_UnitTest
         {
             int number1 = 10;
             int number2 = 4;
-            int expected = 14;
+            int expected = 14; //요청 결과를 예상한 값
             Calculator calculator = new Calculator();
             int result = calculator.Add(number1, number2);
             Assert.AreEqual(expected, result);
@@ -22,7 +22,7 @@ namespace CShap_TDD_UnitTest
         {
             int number1 = 10;
             int number2 = 4;
-            int expected = 10;
+            int expected = 10; //요청 결과를 예상한 값
             Calculator calculator = new Calculator();
             int result = calculator.Sub(number1, number2);
             Assert.AreEqual(expected, result); //<-- fail
